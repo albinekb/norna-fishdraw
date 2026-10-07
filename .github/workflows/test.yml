@@ -1,0 +1,26 @@
+name: test
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python: ["3.10", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Install Pillow (icons and sheets only; the core is stdlib)
+        run: python -m pip install pillow
+      - name: v1 tests (port parity, determinism, GLB writer, icons)
+        run: python norna_fishdraw/test_fishdraw.py
+      - name: v2 tests (genome, validator, rig, bake, 500-seed sweep)
+        run: python norna_fishdraw/v2/test_v2.py
+      - name: Bake the game fish
+        run: python norna_fishdraw/v2/bake.py --game out/fish | tail -3

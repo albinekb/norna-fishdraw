@@ -1,0 +1,4725 @@
+[
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.045521,
+                "height": 0.767575,
+                "hump": 0.115068,
+                "nb": 1.986376,
+                "nose": 0.204033,
+                "nose_p": 2.078193,
+                "nt": 2.463247,
+                "peak": 0.494179,
+                "pinch": 0.007596,
+                "sag": 0.162889,
+                "tail": 0.124121,
+                "taper": 0.831955,
+                "width": 0.28026
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.167607,
+            "palette": {
+                "accent": "#22222b",
+                "arm": "#c2b154",
+                "back": "#827a47",
+                "barbel": "#f6e481",
+                "belly": "#fff5b8",
+                "bulb": "#88ffee",
+                "fin": "#f8e998",
+                "flank": "#efd964",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#fbec9a",
+                "lid": "#efd964",
+                "mouth": "#7a2f36",
+                "plate": "#a69447",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 1.198716,
+                    "s0": 0.283056,
+                    "s1": 0.732484
+                },
+                "dorsal": {
+                    "h": 1.987217,
+                    "membrane": 0.817506,
+                    "s0": 0.241905,
+                    "s1": 0.678253
+                },
+                "eye": {
+                    "bulge": 0.788396,
+                    "k": 0.276914,
+                    "size": 0.274245,
+                    "theta": 91.649024
+                },
+                "pectoral": {
+                    "len": 0.266044,
+                    "s": 0.315123
+                },
+                "pelvic": {
+                    "back": 0.297957,
+                    "len": 1.53223,
+                    "s": 0.37182
+                },
+                "tail": {
+                    "fork": 0.281145,
+                    "len": 0.248824,
+                    "lobe": 0.407394,
+                    "shape": 3
+                }
+            },
+            "plan": "disc",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "bars",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "angelfish",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "6f1ab510c7556a2d68c64d61199d60b91c98913957c918fbfad0995b2c1002f2",
+        "seed": 1,
+        "species": "angelfish",
+        "strength": 1.0,
+        "tris": 756
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.061521,
+                "height": 0.556324,
+                "hump": 0.160756,
+                "nb": 2.13136,
+                "nose": 0.164416,
+                "nose_p": 2.555484,
+                "nt": 2.71401,
+                "peak": 0.52272,
+                "pinch": 0.306647,
+                "sag": 0.249308,
+                "tail": 0.212446,
+                "taper": 1.400082,
+                "width": 0.252797
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.128213,
+            "palette": {
+                "accent": "#25282e",
+                "arm": "#d1905e",
+                "back": "#8c6b4f",
+                "barbel": "#ffbe8a",
+                "belly": "#ffdaba",
+                "bulb": "#88ffee",
+                "fin": "#ffcaa0",
+                "flank": "#ffae6f",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#ffcaa0",
+                "lid": "#ffae6f",
+                "mouth": "#7a2f36",
+                "plate": "#b2784f",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.26016,
+                    "s0": 0.283944,
+                    "s1": 0.82009
+                },
+                "dorsal": {
+                    "h": 1.9043,
+                    "membrane": 0.878562,
+                    "s0": 0.275838,
+                    "s1": 0.83225
+                },
+                "eye": {
+                    "bulge": 0.679983,
+                    "k": 0.226279,
+                    "size": 0.203189,
+                    "theta": 87.24164
+                },
+                "pectoral": {
+                    "len": 0.477431,
+                    "s": 0.337599
+                },
+                "pelvic": {
+                    "back": 0.110203,
+                    "len": 1.67884,
+                    "s": 0.388923
+                },
+                "tail": {
+                    "fork": 0.126167,
+                    "len": 0.229366,
+                    "lobe": 0.424002,
+                    "shape": 2
+                }
+            },
+            "plan": "disc",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "stripes",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "angelfish",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "81551cc906e01a3882b9d94f25d4bc72cf39b73a8270f1ba71bf1b4df8081522",
+        "seed": 2,
+        "species": "angelfish",
+        "strength": 1.0,
+        "tris": 759
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.040969,
+                "curve": 0.017119,
+                "height": 0.338651,
+                "hump": 0.046027,
+                "nb": 2.136376,
+                "nose": 0.183025,
+                "nose_p": 2.197741,
+                "nt": 2.213247,
+                "peak": 0.471758,
+                "pinch": 0.008862,
+                "sag": 0.1466,
+                "snout_up": 0.471165,
+                "tail": 0.114472,
+                "taper": 1.17594,
+                "width": 1.002603
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.286461,
+            "palette": {
+                "accent": "#bec4d5",
+                "arm": "#272634",
+                "back": "#212333",
+                "barbel": "#5b5b61",
+                "belly": "#aaaaa8",
+                "bulb": "#88ffee",
+                "fin": "#3b4351",
+                "flank": "#2d2d3c",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#7d7d80",
+                "lid": "#2d2d3c",
+                "mouth": "#7a2f36",
+                "plate": "#27242d",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.799358,
+                    "s0": 0.611528,
+                    "s1": 0.801988
+                },
+                "dorsal": {
+                    "h": 0.993608,
+                    "membrane": 0.643577,
+                    "s0": 0.271429,
+                    "s1": 0.522602
+                },
+                "eye": {
+                    "bulge": 0.788396,
+                    "k": 0.257686,
+                    "size": 0.374245,
+                    "theta": 91.649024
+                },
+                "jaw": {
+                    "drop": 0.384658,
+                    "gape": 18.533665,
+                    "proj": 1.193723,
+                    "slope": 0.082257,
+                    "teeth": 8,
+                    "tooth": 0.3296,
+                    "up": 0
+                },
+                "lure": {
+                    "bulb": 0.808622,
+                    "curl": 0.853161,
+                    "s": 0.09863,
+                    "stalk": 1.814563
+                },
+                "pectoral": {
+                    "filament": 0.088351,
+                    "len": 0.499252,
+                    "s": 0.275123
+                },
+                "pelvic": {
+                    "len": 1.088153,
+                    "s": 0.43182
+                },
+                "tail": {
+                    "fork": 0.512336,
+                    "len": 0.897059,
+                    "lobe": 1.062939,
+                    "shape": 1,
+                    "streamer": 0.557156
+                }
+            },
+            "plan": "round",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "plain",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "angler",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "ea3fc1d631d83facf6af278ea528456b8e0c5e6458ce5ebd838d1cdcec8c0710",
+        "seed": 1,
+        "species": "angler",
+        "strength": 1.0,
+        "tris": 701
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.055369,
+                "curve": -0.009975,
+                "height": 0.264713,
+                "hump": 0.064302,
+                "nb": 2.28136,
+                "nose": 0.153312,
+                "nose_p": 2.794355,
+                "nt": 2.46401,
+                "peak": 0.487238,
+                "pinch": 0.357755,
+                "sag": 0.224377,
+                "snout_up": 0.343577,
+                "tail": 0.167468,
+                "taper": 1.933443,
+                "width": 0.727971
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.250648,
+            "palette": {
+                "accent": "#ccdce4",
+                "arm": "#292f38",
+                "back": "#242e37",
+                "barbel": "#626468",
+                "belly": "#b6b5b4",
+                "bulb": "#88ffee",
+                "fin": "#405257",
+                "flank": "#303640",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#86878a",
+                "lid": "#303640",
+                "mouth": "#7a2f36",
+                "plate": "#272830",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.33008,
+                    "s0": 0.611972,
+                    "s1": 0.872072
+                },
+                "dorsal": {
+                    "h": 0.95215,
+                    "membrane": 0.69591,
+                    "s0": 0.296879,
+                    "s1": 0.6458
+                },
+                "eye": {
+                    "bulge": 0.679983,
+                    "k": 0.219709,
+                    "size": 0.303189,
+                    "theta": 87.24164
+                },
+                "jaw": {
+                    "drop": 0.361317,
+                    "gape": 18.792926,
+                    "proj": 1.272231,
+                    "slope": 0.07087,
+                    "teeth": 6,
+                    "tooth": 0.28736,
+                    "up": 0
+                },
+                "lure": {
+                    "bulb": 1.058028,
+                    "curl": 0.803483,
+                    "s": 0.070946,
+                    "stalk": 1.6526
+                },
+                "pectoral": {
+                    "filament": 0.978277,
+                    "len": 0.752917,
+                    "s": 0.297599
+                },
+                "pelvic": {
+                    "len": 1.185893,
+                    "s": 0.448923
+                },
+                "tail": {
+                    "fork": 0.27126,
+                    "len": 0.848415,
+                    "lobe": 1.092004,
+                    "shape": 1,
+                    "streamer": 0.888376
+                }
+            },
+            "plan": "round",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "mottle",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "angler",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "a28d765ce2ff74d692768dc146039a6d72031fb7fa2d20db8018eae129fa64ac",
+        "seed": 2,
+        "species": "angler",
+        "strength": 1.0,
+        "tris": 698
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.040969,
+                "curve": 0.017119,
+                "height": 0.211894,
+                "hump": 0.138082,
+                "nb": 2.136376,
+                "nose": 0.183025,
+                "nose_p": 2.197741,
+                "nt": 2.213247,
+                "peak": 0.471758,
+                "pinch": 0.306752,
+                "rostrum": 0.243467,
+                "sag": 0.1466,
+                "snout_up": 0.471165,
+                "tail": 0.114472,
+                "taper": 1.17594,
+                "width": 0.652603
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.844182,
+            "palette": {
+                "accent": "#dde6f3",
+                "arm": "#294b71",
+                "back": "#233b5a",
+                "barbel": "#5e7f9e",
+                "belly": "#abbfca",
+                "bulb": "#88ffee",
+                "fin": "#3d5378",
+                "flank": "#305b89",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#7f9ab2",
+                "lid": "#305b89",
+                "mouth": "#7a2f36",
+                "plate": "#29425f",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.799358,
+                    "s0": 0.691528,
+                    "s1": 0.820994
+                },
+                "dorsal": {
+                    "h": 2.634021,
+                    "membrane": 0.8892,
+                    "s0": 0.371429,
+                    "s1": 0.678253
+                },
+                "eye": {
+                    "bulge": 0.788396,
+                    "k": 0.544214,
+                    "size": 0.274245,
+                    "theta": 91.649024
+                },
+                "pectoral": {
+                    "filament": 0.088351,
+                    "len": 0.632087,
+                    "s": 0.415123
+                },
+                "pelvic": {
+                    "len": 1.088153,
+                    "s": 0.43182
+                },
+                "tail": {
+                    "fork": 0.512336,
+                    "len": 1.297059,
+                    "lobe": 1.514787,
+                    "shape": 2,
+                    "streamer": 0.557156
+                }
+            },
+            "plan": "round",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "stripes",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "billfish",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "01c81925d1bb26c20c4ed9c4c07a8f700776b99d01bae570105aba13c75a5942",
+        "seed": 1,
+        "species": "billfish",
+        "strength": 1.0,
+        "tris": 517
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.055369,
+                "curve": -0.009975,
+                "height": 0.159081,
+                "hump": 0.192907,
+                "nb": 2.28136,
+                "nose": 0.153312,
+                "nose_p": 2.794355,
+                "nt": 2.46401,
+                "peak": 0.487238,
+                "pinch": 0.572575,
+                "rostrum": 0.235414,
+                "sag": 0.224377,
+                "snout_up": 0.343577,
+                "tail": 0.167468,
+                "taper": 1.933443,
+                "width": 0.377971
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.643628,
+            "palette": {
+                "accent": "#e8faff",
+                "arm": "#2f707a",
+                "back": "#285760",
+                "barbel": "#67a4aa",
+                "belly": "#b9d9d7",
+                "bulb": "#88ffee",
+                "fin": "#437380",
+                "flank": "#378893",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#8abcbf",
+                "lid": "#378893",
+                "mouth": "#7a2f36",
+                "plate": "#2d5f66",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.33008,
+                    "s0": 0.691972,
+                    "s1": 0.856036
+                },
+                "dorsal": {
+                    "h": 2.530376,
+                    "membrane": 0.92627,
+                    "s0": 0.396879,
+                    "s1": 0.83225
+                },
+                "eye": {
+                    "bulge": 0.679983,
+                    "k": 0.449274,
+                    "size": 0.203189,
+                    "theta": 87.24164
+                },
+                "pectoral": {
+                    "filament": 0.978277,
+                    "len": 1.054862,
+                    "s": 0.437599
+                },
+                "pelvic": {
+                    "len": 1.185893,
+                    "s": 0.448923
+                },
+                "tail": {
+                    "fork": 0.27126,
+                    "len": 1.248415,
+                    "lobe": 1.548004,
+                    "shape": 2,
+                    "streamer": 0.888376
+                }
+            },
+            "plan": "round",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "plain",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "billfish",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "ea9472522aea31789ba1cc74dafa0bf2b6145cbaa9f978ae70c1ecdea5022c43",
+        "seed": 2,
+        "species": "billfish",
+        "strength": 1.0,
+        "tris": 520
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.040969,
+                "curve": 0.017119,
+                "height": 0.290272,
+                "hump": 0.200465,
+                "nb": 2.136376,
+                "nose": 0.183025,
+                "nose_p": 2.542854,
+                "nt": 2.213247,
+                "peak": 0.464698,
+                "pinch": 0.008862,
+                "sag": 0.1466,
+                "snout_up": 0.471165,
+                "tail": 0.114472,
+                "taper": 1.17594,
+                "width": 0.652603
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.236793,
+            "palette": {
+                "accent": "#ead26a",
+                "arm": "#5c7033",
+                "back": "#435233",
+                "barbel": "#90a360",
+                "belly": "#c7d3a7",
+                "bulb": "#88ffee",
+                "fin": "#896f2f",
+                "flank": "#70893a",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#a8b87f",
+                "lid": "#70893a",
+                "mouth": "#7a2f36",
+                "plate": "#52602c",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.799358,
+                    "s0": 0.611528,
+                    "s1": 0.801988
+                },
+                "barbels": {
+                    "curl": 0.387222,
+                    "len": 0.541172,
+                    "n": 2,
+                    "tip": 0.135627
+                },
+                "dorsal": {
+                    "h": 0.870206,
+                    "membrane": 0.643577,
+                    "s0": 0.260953,
+                    "s1": 0.578253
+                },
+                "eye": {
+                    "bulge": 0.788396,
+                    "k": 0.257686,
+                    "size": 0.274245,
+                    "theta": 91.649024
+                },
+                "pectoral": {
+                    "filament": 0.088351,
+                    "len": 0.632087,
+                    "s": 0.275123
+                },
+                "pelvic": {
+                    "len": 1.088153,
+                    "s": 0.43182
+                },
+                "tail": {
+                    "fork": 0.512336,
+                    "len": 0.897059,
+                    "lobe": 1.062939,
+                    "shape": 0,
+                    "streamer": 0.557156
+                }
+            },
+            "plan": "round",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "mottle",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "carp",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "f53abca6209283658d0e4714b92598bd5f1eeaa583cb0ec5f933942761fad4be",
+        "seed": 1,
+        "species": "carp",
+        "strength": 1.0,
+        "tris": 589
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.055369,
+                "curve": -0.009975,
+                "height": 0.226897,
+                "hump": 0.244326,
+                "nb": 2.28136,
+                "nose": 0.153312,
+                "nose_p": 3.109637,
+                "nt": 2.46401,
+                "peak": 0.484048,
+                "pinch": 0.357755,
+                "sag": 0.224377,
+                "snout_up": 0.343577,
+                "tail": 0.167468,
+                "taper": 1.933443,
+                "width": 0.377971
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.212441,
+            "palette": {
+                "accent": "#fbad77",
+                "arm": "#787439",
+                "back": "#565837",
+                "barbel": "#afa769",
+                "belly": "#e3ddb5",
+                "bulb": "#88ffee",
+                "fin": "#935336",
+                "flank": "#938c41",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#c5be8a",
+                "lid": "#938c41",
+                "mouth": "#7a2f36",
+                "plate": "#676031",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.33008,
+                    "s0": 0.611972,
+                    "s1": 0.872072
+                },
+                "barbels": {
+                    "curl": 0.977468,
+                    "len": 0.428476,
+                    "n": 2,
+                    "tip": 0.139136
+                },
+                "dorsal": {
+                    "h": 0.839113,
+                    "membrane": 0.69591,
+                    "s0": 0.277919,
+                    "s1": 0.73225
+                },
+                "eye": {
+                    "bulge": 0.679983,
+                    "k": 0.219709,
+                    "size": 0.203189,
+                    "theta": 87.24164
+                },
+                "pectoral": {
+                    "filament": 0.978277,
+                    "len": 1.054862,
+                    "s": 0.297599
+                },
+                "pelvic": {
+                    "len": 1.185893,
+                    "s": 0.448923
+                },
+                "tail": {
+                    "fork": 0.27126,
+                    "len": 0.848415,
+                    "lobe": 1.092004,
+                    "shape": 0,
+                    "streamer": 0.888376
+                }
+            },
+            "plan": "round",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "spots",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "carp",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "e770d237f552ea3b17d7781679221205b166477babbb9bb592ec943efabc3e72",
+        "seed": 2,
+        "species": "carp",
+        "strength": 1.0,
+        "tris": 559
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.040969,
+                "curve": 0.017119,
+                "height": 0.210272,
+                "hump": 0.046027,
+                "nb": 2.136376,
+                "nose": 0.183025,
+                "nose_p": 2.197741,
+                "nt": 2.213247,
+                "peak": 0.351758,
+                "pinch": 0.008862,
+                "sag": 0.1466,
+                "snout_up": 0.471165,
+                "tail": 0.114472,
+                "taper": 1.17594,
+                "width": 1.103905
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.236793,
+            "palette": {
+                "accent": "#fbe5d9",
+                "arm": "#a4938a",
+                "back": "#706769",
+                "barbel": "#d8c6b7",
+                "belly": "#f0e7d8",
+                "bulb": "#88ffee",
+                "fin": "#a38982",
+                "flank": "#cab4a8",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#e2d4c7",
+                "lid": "#cab4a8",
+                "mouth": "#7a2f36",
+                "plate": "#8d7c73",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.799358,
+                    "s0": 0.611528,
+                    "s1": 0.801988
+                },
+                "barbels": {
+                    "curl": 0.387222,
+                    "len": 0.782344,
+                    "n": 5,
+                    "tip": 0.135627
+                },
+                "dorsal": {
+                    "h": 0.546804,
+                    "membrane": 0.643577,
+                    "s0": 0.271429,
+                    "s1": 0.522602
+                },
+                "eye": {
+                    "bulge": 0.788396,
+                    "k": 0.257686,
+                    "size": 0.274245,
+                    "theta": 91.649024
+                },
+                "pectoral": {
+                    "filament": 0.088351,
+                    "len": 0.632087,
+                    "s": 0.275123
+                },
+                "pelvic": {
+                    "len": 1.088153,
+                    "s": 0.43182
+                },
+                "tail": {
+                    "fork": 0.512336,
+                    "len": 0.897059,
+                    "lobe": 1.062939,
+                    "shape": 1,
+                    "streamer": 0.557156
+                }
+            },
+            "plan": "round",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "plain",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "catfish",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "af75d284e5e5456d55f2b97ff336c7ebf02dec6b93a75c4ff8ce1c71ba2dc4ea",
+        "seed": 1,
+        "species": "catfish",
+        "strength": 1.0,
+        "tris": 553
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.055369,
+                "curve": -0.009975,
+                "height": 0.146897,
+                "hump": 0.064302,
+                "nb": 2.28136,
+                "nose": 0.153312,
+                "nose_p": 2.794355,
+                "nt": 2.46401,
+                "peak": 0.367238,
+                "pinch": 0.357755,
+                "sag": 0.224377,
+                "snout_up": 0.343577,
+                "tail": 0.167468,
+                "taper": 1.933443,
+                "width": 0.691957
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.212441,
+            "palette": {
+                "accent": "#ffdee0",
+                "arm": "#b19598",
+                "back": "#786f75",
+                "barbel": "#e8c8c6",
+                "belly": "#ffece6",
+                "bulb": "#88ffee",
+                "fin": "#af8c93",
+                "flank": "#d9b6b7",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#f3d9d7",
+                "lid": "#d9b6b7",
+                "mouth": "#7a2f36",
+                "plate": "#977c7d",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.33008,
+                    "s0": 0.611972,
+                    "s1": 0.872072
+                },
+                "barbels": {
+                    "curl": 0.977468,
+                    "len": 0.556952,
+                    "n": 5,
+                    "tip": 0.139136
+                },
+                "dorsal": {
+                    "h": 0.526075,
+                    "membrane": 0.69591,
+                    "s0": 0.296879,
+                    "s1": 0.6458
+                },
+                "eye": {
+                    "bulge": 0.679983,
+                    "k": 0.219709,
+                    "size": 0.203189,
+                    "theta": 87.24164
+                },
+                "pectoral": {
+                    "filament": 0.978277,
+                    "len": 1.054862,
+                    "s": 0.297599
+                },
+                "pelvic": {
+                    "len": 1.185893,
+                    "s": 0.448923
+                },
+                "tail": {
+                    "fork": 0.27126,
+                    "len": 0.848415,
+                    "lobe": 1.092004,
+                    "shape": 1,
+                    "streamer": 0.888376
+                }
+            },
+            "plan": "round",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "spots",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "catfish",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "853c98b697f683c1ecbf8257fb3feffffdaa00d96e32182a060d88eaea7763ff",
+        "seed": 2,
+        "species": "catfish",
+        "strength": 1.0,
+        "tris": 556
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "curve": 0.068474,
+                "flick": 0.010576,
+                "height": 0.143515,
+                "nb": 2.067536,
+                "nose": 0.360661,
+                "nose_p": 2.278193,
+                "nt": 2.089499,
+                "peak": 0.30036,
+                "tail": 0.094472,
+                "taper": 0.576974,
+                "width": 1.103254
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.545844,
+            "palette": {
+                "accent": "#a9a061",
+                "arm": "#625f45",
+                "back": "#46463e",
+                "barbel": "#979371",
+                "belly": "#ccc9b1",
+                "bulb": "#88ffee",
+                "fin": "#514c36",
+                "flank": "#787350",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#adab8d",
+                "lid": "#787350",
+                "mouth": "#7a2f36",
+                "plate": "#58533a",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.656593,
+                    "s0": 0.318229,
+                    "s1": 0.926366
+                },
+                "dorsal": {
+                    "h": 0.881907,
+                    "membrane": 0.8892,
+                    "s0": 0.063811,
+                    "s1": 0.885539
+                },
+                "eye": {
+                    "bulge": 0.788396,
+                    "k": 0.492286,
+                    "size": 0.324245,
+                    "theta": 91.649024
+                },
+                "pectoral": {
+                    "len": 0.46567,
+                    "s": 0.130082
+                }
+            },
+            "plan": "eel",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "blotch",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "eel",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "6da7fb2d84a183f3bb02c398f3b41b5d40362f26cad8f5f42d29fae1c0ad0cda",
+        "seed": 1,
+        "species": "eel",
+        "strength": 1.0,
+        "tris": 690
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "curve": -0.0399,
+                "flick": -0.044951,
+                "height": 0.101265,
+                "nb": 2.10896,
+                "nose": 0.31733,
+                "nose_p": 2.755484,
+                "nt": 2.161146,
+                "peak": 0.317292,
+                "tail": 0.147468,
+                "taper": 0.908381,
+                "width": 0.759964
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.402592,
+            "palette": {
+                "accent": "#b58e6a",
+                "arm": "#69594b",
+                "back": "#4c4843",
+                "barbel": "#a28f7b",
+                "belly": "#dbcdbf",
+                "bulb": "#88ffee",
+                "fin": "#57473b",
+                "flank": "#806b58",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#baaa99",
+                "lid": "#806b58",
+                "mouth": "#7a2f36",
+                "plate": "#5e4d3f",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.254354,
+                    "s0": 0.319894,
+                    "s1": 0.974549
+                },
+                "dorsal": {
+                    "h": 0.845631,
+                    "membrane": 0.92627,
+                    "s0": 0.131677,
+                    "s1": 0.970238
+                },
+                "eye": {
+                    "bulge": 0.679983,
+                    "k": 0.365698,
+                    "size": 0.253189,
+                    "theta": 87.24164
+                },
+                "pectoral": {
+                    "len": 0.80389,
+                    "s": 0.145066
+                }
+            },
+            "plan": "eel",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "stripes",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "eel",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "2e60d83953dd24bdde4f65b87ea06aef145360c639c55f990746af944f0cfb4f",
+        "seed": 2,
+        "species": "eel",
+        "strength": 1.0,
+        "tris": 684
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "curve": 0.020542,
+                "head": 0.247685,
+                "height": 0.145136,
+                "nb": 2.035072,
+                "nose": 0.203025,
+                "nt": 2.178998,
+                "peak": 0.364698,
+                "pinch": 0.007596,
+                "tail": 0.089648,
+                "taper": 1.203948,
+                "width": 0.752603
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.569597,
+            "palette": {
+                "accent": "#cdd5de",
+                "arm": "#5c6a79",
+                "back": "#434e5e",
+                "barbel": "#919ea6",
+                "belly": "#c9d0ce",
+                "bulb": "#88ffee",
+                "fin": "#718191",
+                "flank": "#718191",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#a8b4b8",
+                "lid": "#718191",
+                "mouth": "#7a2f36",
+                "plate": "#535b64",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.756593,
+                    "s0": 0.691528,
+                    "s1": 0.800994
+                },
+                "dorsal": {
+                    "h": 2.587217,
+                    "membrane": 0.395718,
+                    "s0": 0.271429,
+                    "s1": 0.422602
+                },
+                "eye": {
+                    "bulge": 0.788396,
+                    "k": 0.3,
+                    "size": 0.274245,
+                    "theta": 90.824512
+                },
+                "pectoral": {
+                    "len": 1.13134,
+                    "s": 0.295123
+                },
+                "pelvic": {
+                    "len": 1.188153,
+                    "s": 0.59182
+                },
+                "tail": {
+                    "fork": 0.487383,
+                    "len": 1.097059,
+                    "lobe": 1.418484,
+                    "shape": 2
+                }
+            },
+            "plan": "hammerhead",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "plain",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "hammerhead",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "6f5d761a1061a4aeb19e2f7268688834a047eb3b5c2df9d697d5e71e869534a0",
+        "seed": 1,
+        "species": "hammerhead",
+        "strength": 1.0,
+        "tris": 514
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "curve": -0.01197,
+                "head": 0.235807,
+                "height": 0.113449,
+                "nb": 2.11792,
+                "nose": 0.173312,
+                "nt": 2.322291,
+                "peak": 0.384048,
+                "pinch": 0.306647,
+                "tail": 0.124978,
+                "taper": 1.866762,
+                "width": 0.477971
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.383369,
+            "palette": {
+                "accent": "#dcecee",
+                "arm": "#647e82",
+                "back": "#496065",
+                "barbel": "#9cb2b0",
+                "belly": "#d8e0da",
+                "bulb": "#88ffee",
+                "fin": "#7a999c",
+                "flank": "#7a999c",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#b5c5c3",
+                "lid": "#7a999c",
+                "mouth": "#7a2f36",
+                "plate": "#5a696c",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.354354,
+                    "s0": 0.691972,
+                    "s1": 0.836036
+                },
+                "dorsal": {
+                    "h": 2.5043,
+                    "membrane": 0.430607,
+                    "s0": 0.296879,
+                    "s1": 0.5458
+                },
+                "eye": {
+                    "bulge": 0.679983,
+                    "k": 0.3,
+                    "size": 0.203189,
+                    "theta": 88.62082
+                },
+                "pectoral": {
+                    "len": 1.80778,
+                    "s": 0.317599
+                },
+                "pelvic": {
+                    "len": 1.285893,
+                    "s": 0.608923
+                },
+                "tail": {
+                    "fork": 0.315185,
+                    "len": 1.048415,
+                    "lobe": 1.460005,
+                    "shape": 2
+                }
+            },
+            "plan": "hammerhead",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "gradient",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "hammerhead",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "24de5c95c2b93cef7ecaeaade3c48981d8c5d0e23e5efd1a9c112726db16b0f2",
+        "seed": 2,
+        "species": "hammerhead",
+        "strength": 1.0,
+        "tris": 517
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.050832,
+                "curve": 0.017119,
+                "height": 0.28703,
+                "hump": 0.138082,
+                "nb": 2.136376,
+                "nose": 0.183025,
+                "nose_p": 2.197741,
+                "nt": 2.213247,
+                "peak": 0.384698,
+                "pinch": 0.008862,
+                "sag": 0.1466,
+                "snout_up": 0.471165,
+                "tail": 0.114472,
+                "taper": 1.17594,
+                "width": 0.652603
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.161877,
+            "palette": {
+                "accent": "#fff3dc",
+                "arm": "#a04033",
+                "back": "#6d3332",
+                "barbel": "#d37360",
+                "belly": "#eeb8a7",
+                "bulb": "#88ffee",
+                "fin": "#d7b26f",
+                "flank": "#c44c3b",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#df9180",
+                "lid": "#c44c3b",
+                "mouth": "#7a2f36",
+                "plate": "#8a392c",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.799358,
+                    "s0": 0.611528,
+                    "s1": 0.801988
+                },
+                "barbels": {
+                    "curl": 0.387222,
+                    "len": 0.441172,
+                    "n": 2,
+                    "tip": 0.135627
+                },
+                "dorsal": {
+                    "h": 2.834021,
+                    "membrane": 0.205252,
+                    "s0": 0.240953,
+                    "s1": 0.602602
+                },
+                "eye": {
+                    "bulge": 0.788396,
+                    "k": 0.257686,
+                    "size": 0.274245,
+                    "theta": 91.649024
+                },
+                "pectoral": {
+                    "filament": 0.088351,
+                    "len": 1.464174,
+                    "s": 0.270082
+                },
+                "pelvic": {
+                    "len": 1.73223,
+                    "s": 0.43182
+                },
+                "tail": {
+                    "fork": 0.512336,
+                    "len": 0.897059,
+                    "lobe": 1.062939,
+                    "shape": 3,
+                    "streamer": 0.557156
+                }
+            },
+            "plan": "round",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "bars",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "lionfish",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "f11436e61a25e52d15e9ad68d995c52e856a4077d877636a0176399aa302428f",
+        "seed": 1,
+        "species": "lionfish",
+        "strength": 1.0,
+        "tris": 556
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.068698,
+                "curve": -0.009975,
+                "height": 0.202529,
+                "hump": 0.192907,
+                "nb": 2.28136,
+                "nose": 0.153312,
+                "nose_p": 2.794355,
+                "nt": 2.46401,
+                "peak": 0.404048,
+                "pinch": 0.357755,
+                "sag": 0.224377,
+                "snout_up": 0.343577,
+                "tail": 0.167468,
+                "taper": 1.933443,
+                "width": 0.377971
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.140389,
+            "palette": {
+                "accent": "#ffe6dd",
+                "arm": "#ac3b5b",
+                "back": "#753850",
+                "barbel": "#e36b87",
+                "belly": "#ffb6c1",
+                "bulb": "#88ffee",
+                "fin": "#e6957b",
+                "flank": "#d3446c",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#f08da3",
+                "lid": "#d3446c",
+                "mouth": "#7a2f36",
+                "plate": "#94334c",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.33008,
+                    "s0": 0.611972,
+                    "s1": 0.872072
+                },
+                "barbels": {
+                    "curl": 0.977468,
+                    "len": 0.328476,
+                    "n": 2,
+                    "tip": 0.139136
+                },
+                "dorsal": {
+                    "h": 2.730376,
+                    "membrane": 0.223569,
+                    "s0": 0.257919,
+                    "s1": 0.7258
+                },
+                "eye": {
+                    "bulge": 0.679983,
+                    "k": 0.219709,
+                    "size": 0.203189,
+                    "theta": 87.24164
+                },
+                "pectoral": {
+                    "filament": 0.978277,
+                    "len": 2.309725,
+                    "s": 0.285066
+                },
+                "pelvic": {
+                    "len": 1.87884,
+                    "s": 0.448923
+                },
+                "tail": {
+                    "fork": 0.27126,
+                    "len": 0.848415,
+                    "lobe": 1.092004,
+                    "shape": 2,
+                    "streamer": 0.888376
+                }
+            },
+            "plan": "round",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "stripes",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "lionfish",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "d243a191078d31541df74b65deb6c7df557917d72385bb6a0544b0c3a28e0262",
+        "seed": 2,
+        "species": "lionfish",
+        "strength": 1.0,
+        "tris": 559
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.040969,
+                "curve": 0.017119,
+                "height": 0.250272,
+                "hump": 0.138082,
+                "nb": 2.136376,
+                "nose": 0.183025,
+                "nose_p": 1.758645,
+                "nt": 2.213247,
+                "peak": 0.351758,
+                "pinch": 0.008862,
+                "sag": 0.1466,
+                "snout_up": 0.471165,
+                "tail": 0.114472,
+                "taper": 1.17594,
+                "width": 0.652603
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.298338,
+            "palette": {
+                "accent": "#80c1de",
+                "arm": "#212835",
+                "back": "#1d2434",
+                "barbel": "#555b62",
+                "belly": "#a7aba9",
+                "bulb": "#88ffee",
+                "fin": "#333b4d",
+                "flank": "#262e3e",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#787e82",
+                "lid": "#262e3e",
+                "mouth": "#7a2f36",
+                "plate": "#22262e",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.799358,
+                    "s0": 0.611528,
+                    "s1": 0.801988
+                },
+                "dorsal": {
+                    "h": 0.993608,
+                    "membrane": 0.643577,
+                    "s0": 0.271429,
+                    "s1": 0.522602
+                },
+                "eye": {
+                    "bulge": 0.788396,
+                    "k": 0.257686,
+                    "size": 0.394245,
+                    "theta": 91.649024
+                },
+                "jaw": {
+                    "drop": 0.384658,
+                    "gape": 22.533665,
+                    "proj": 0.954979,
+                    "slope": 0.082257,
+                    "teeth": 7,
+                    "tooth": 0.353143,
+                    "up": 0
+                },
+                "pectoral": {
+                    "filament": 0.088351,
+                    "len": 0.632087,
+                    "s": 0.275123
+                },
+                "pelvic": {
+                    "len": 1.088153,
+                    "s": 0.43182
+                },
+                "tail": {
+                    "fork": 0.512336,
+                    "len": 0.897059,
+                    "lobe": 1.062939,
+                    "shape": 1,
+                    "streamer": 0.557156
+                },
+                "tent": {
+                    "band": 1,
+                    "club": 0.285644,
+                    "curl": 1.014411,
+                    "len": 2.339982,
+                    "n": 4,
+                    "suck": 0.0,
+                    "tip": 0.131051
+                }
+            },
+            "plan": "round",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "plain",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "mawfish",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "80103e57af55a221adc6d9c7d4e2b06076641d7dfb852286d9f90eaa67e818e7",
+        "seed": 1,
+        "species": "mawfish",
+        "strength": 1.0,
+        "tris": 818
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.055369,
+                "curve": -0.009975,
+                "height": 0.186897,
+                "hump": 0.192907,
+                "nb": 2.28136,
+                "nose": 0.153312,
+                "nose_p": 2.116613,
+                "nt": 2.46401,
+                "peak": 0.367238,
+                "pinch": 0.357755,
+                "sag": 0.224377,
+                "snout_up": 0.343577,
+                "tail": 0.167468,
+                "taper": 1.933443,
+                "width": 0.377971
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.241037,
+            "palette": {
+                "accent": "#8deee5",
+                "arm": "#243439",
+                "back": "#203138",
+                "barbel": "#5c6869",
+                "belly": "#b3b7b3",
+                "bulb": "#88ffee",
+                "fin": "#374b53",
+                "flank": "#2a3c42",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#828b8c",
+                "lid": "#2a3c42",
+                "mouth": "#7a2f36",
+                "plate": "#252e31",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.33008,
+                    "s0": 0.611972,
+                    "s1": 0.872072
+                },
+                "dorsal": {
+                    "h": 0.95215,
+                    "membrane": 0.69591,
+                    "s0": 0.296879,
+                    "s1": 0.6458
+                },
+                "eye": {
+                    "bulge": 0.679983,
+                    "k": 0.219709,
+                    "size": 0.323189,
+                    "theta": 87.24164
+                },
+                "jaw": {
+                    "drop": 0.361317,
+                    "gape": 22.792926,
+                    "proj": 1.017785,
+                    "slope": 0.07087,
+                    "teeth": 6,
+                    "tooth": 0.307885,
+                    "up": 0
+                },
+                "pectoral": {
+                    "filament": 0.978277,
+                    "len": 1.054862,
+                    "s": 0.297599
+                },
+                "pelvic": {
+                    "len": 1.185893,
+                    "s": 0.448923
+                },
+                "tail": {
+                    "fork": 0.27126,
+                    "len": 0.848415,
+                    "lobe": 1.092004,
+                    "shape": 0,
+                    "streamer": 0.888376
+                },
+                "tent": {
+                    "band": 1,
+                    "club": 0.228302,
+                    "curl": 0.570554,
+                    "len": 1.54313,
+                    "n": 5,
+                    "suck": 0.0,
+                    "tip": 0.161195
+                }
+            },
+            "plan": "round",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "mottle",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "mawfish",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "888280f0d35de7ac86bca380bca4f6fa11e294303470e722996f3a9fccc5304d",
+        "seed": 2,
+        "species": "mawfish",
+        "strength": 1.0,
+        "tris": 914
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "curve": 0.068474,
+                "flick": 0.010576,
+                "height": 0.153515,
+                "nb": 2.067536,
+                "nose": 0.360661,
+                "nose_p": 2.278193,
+                "nt": 2.089499,
+                "peak": 0.30036,
+                "tail": 0.094472,
+                "taper": 0.576974,
+                "width": 1.103254
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.596675,
+            "palette": {
+                "accent": "#efd141",
+                "arm": "#5b6b34",
+                "back": "#424f34",
+                "barbel": "#8f9f61",
+                "belly": "#c8d0a8",
+                "bulb": "#88ffee",
+                "fin": "#4d602c",
+                "flank": "#6f823c",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#a7b481",
+                "lid": "#6f823c",
+                "mouth": "#7a2f36",
+                "plate": "#525c2d",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.656593,
+                    "s0": 0.318229,
+                    "s1": 0.926366
+                },
+                "dorsal": {
+                    "h": 0.993608,
+                    "membrane": 0.8892,
+                    "s0": 0.051429,
+                    "s1": 0.885539
+                },
+                "eye": {
+                    "bulge": 0.788396,
+                    "k": 0.492286,
+                    "size": 0.324245,
+                    "theta": 91.649024
+                },
+                "jaw": {
+                    "drop": 0.384658,
+                    "gape": 18.533665,
+                    "proj": 0.754979,
+                    "slope": 0.082257,
+                    "teeth": 7,
+                    "tooth": 0.303143,
+                    "up": 0
+                },
+                "pectoral": {
+                    "len": 0.46567,
+                    "s": 0.130082
+                }
+            },
+            "plan": "eel",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "spots",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "moray",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "b8842891dcc94a83af5201ec9ef30f36712ff5ebb7b93a25f66b6e3f963b8a1b",
+        "seed": 1,
+        "species": "moray",
+        "strength": 1.0,
+        "tris": 802
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "curve": -0.0399,
+                "flick": -0.044951,
+                "height": 0.111265,
+                "nb": 2.10896,
+                "nose": 0.31733,
+                "nose_p": 2.755484,
+                "nt": 2.161146,
+                "peak": 0.317292,
+                "tail": 0.147468,
+                "taper": 0.908381,
+                "width": 0.759964
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.482073,
+            "palette": {
+                "accent": "#ff984b",
+                "arm": "#736c3a",
+                "back": "#535539",
+                "barbel": "#aba16a",
+                "belly": "#e0d8b6",
+                "bulb": "#88ffee",
+                "fin": "#676531",
+                "flank": "#8c8343",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#c2ba8d",
+                "lid": "#8c8343",
+                "mouth": "#7a2f36",
+                "plate": "#635932",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.254354,
+                    "s0": 0.319894,
+                    "s1": 0.974549
+                },
+                "dorsal": {
+                    "h": 0.95215,
+                    "membrane": 0.92627,
+                    "s0": 0.076879,
+                    "s1": 0.970238
+                },
+                "eye": {
+                    "bulge": 0.679983,
+                    "k": 0.365698,
+                    "size": 0.253189,
+                    "theta": 87.24164
+                },
+                "jaw": {
+                    "drop": 0.361317,
+                    "gape": 18.792926,
+                    "proj": 0.817785,
+                    "slope": 0.07087,
+                    "teeth": 6,
+                    "tooth": 0.257885,
+                    "up": 0
+                },
+                "pectoral": {
+                    "len": 0.80389,
+                    "s": 0.145066
+                }
+            },
+            "plan": "eel",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "blotch",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "moray",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "acd9102613af8859e8ad7d814ed7abe3043682ba2f87c38803d33ed2d70cd2cd",
+        "seed": 2,
+        "species": "moray",
+        "strength": 1.0,
+        "tris": 796
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "curve": 0.034237,
+                "height": 0.105136,
+                "hump": 0.069041,
+                "nb": 2.202608,
+                "nose": 0.359537,
+                "nose_p": 1.918419,
+                "nt": 2.268497,
+                "peak": 0.228674,
+                "tail": 0.085207,
+                "taper": 0.58797,
+                "width": 0.507213
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.942519,
+            "palette": {
+                "accent": "#717784",
+                "arm": "#aeb1ba",
+                "back": "#757a87",
+                "barbel": "#e1e4e7",
+                "belly": "#f5f8f2",
+                "bulb": "#88ffee",
+                "fin": "#ef4156",
+                "flank": "#d5d9e2",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#eaeded",
+                "lid": "#d5d9e2",
+                "mouth": "#7a2f36",
+                "plate": "#949599",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "crest": {
+                    "h": 0.994645,
+                    "membrane": 0.625602,
+                    "s0": 0.081015,
+                    "s1": 0.974275,
+                    "waves": 2.343065
+                },
+                "eye": {
+                    "bulge": 0.788396,
+                    "k": 0.492286,
+                    "size": 0.324245,
+                    "theta": 91.649024
+                },
+                "jaw": {
+                    "drop": 0.323105,
+                    "gape": 9.120199,
+                    "proj": 0.616234,
+                    "slope": 0.082257,
+                    "teeth": 0,
+                    "tooth": 0.242514,
+                    "up": 0
+                },
+                "pelvic": {
+                    "len": 4.330575,
+                    "s": 0.161213
+                },
+                "tail": {
+                    "fork": 0.249907,
+                    "len": 0.897059,
+                    "lobe": 0.611091,
+                    "shape": 2
+                }
+            },
+            "plan": "ribbon",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "mottle",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "oarfish",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "35ec11f6ac8959c9f528663071a95301125ce8a5c0327b698d64add3870d80d6",
+        "seed": 1,
+        "species": "oarfish",
+        "strength": 1.0,
+        "tris": 755
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "curve": -0.01995,
+                "height": 0.073449,
+                "hump": 0.096454,
+                "nb": 2.32688,
+                "nose": 0.314968,
+                "nose_p": 2.336049,
+                "nt": 2.483437,
+                "peak": 0.233512,
+                "tail": 0.127162,
+                "taper": 0.966721,
+                "width": 0.273776
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.684665,
+            "palette": {
+                "accent": "#7a888e",
+                "arm": "#bbc3c7",
+                "back": "#7e8b90",
+                "barbel": "#f2f7f8",
+                "belly": "#fffffa",
+                "bulb": "#88ffee",
+                "fin": "#ff4baa",
+                "flank": "#e5eff3",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#fbfefd",
+                "lid": "#e5eff3",
+                "mouth": "#7a2f36",
+                "plate": "#9fa2a4",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "crest": {
+                    "h": 1.782769,
+                    "membrane": 0.950594,
+                    "s0": 0.070962,
+                    "s1": 0.846079,
+                    "waves": 1.272638
+                },
+                "eye": {
+                    "bulge": 0.679983,
+                    "k": 0.365698,
+                    "size": 0.253189,
+                    "theta": 87.24164
+                },
+                "jaw": {
+                    "drop": 0.307544,
+                    "gape": 9.275755,
+                    "proj": 0.663339,
+                    "slope": 0.07087,
+                    "teeth": 0,
+                    "tooth": 0.206308,
+                    "up": 0
+                },
+                "pelvic": {
+                    "len": 4.6971,
+                    "s": 0.172615
+                },
+                "tail": {
+                    "fork": 0.112148,
+                    "len": 0.848415,
+                    "lobe": 0.636003,
+                    "shape": 1
+                }
+            },
+            "plan": "ribbon",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "stripes",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "oarfish",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "d153b19676f82d18ec9b2192b0161d1515863bb775d0dcb909f38c334b58e4ff",
+        "seed": 2,
+        "species": "oarfish",
+        "strength": 1.0,
+        "tris": 758
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.040969,
+                "curve": 0.017119,
+                "height": 0.25703,
+                "hump": 0.138082,
+                "nb": 2.136376,
+                "nose": 0.183025,
+                "nose_p": 2.197741,
+                "nt": 2.213247,
+                "peak": 0.384698,
+                "pinch": 0.008862,
+                "sag": 0.1466,
+                "snout_up": 0.471165,
+                "tail": 0.114472,
+                "taper": 1.17594,
+                "width": 0.652603
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.236793,
+            "palette": {
+                "accent": "#3b4620",
+                "arm": "#909b4d",
+                "back": "#636d43",
+                "barbel": "#c3ce7a",
+                "belly": "#e5ebb6",
+                "bulb": "#88ffee",
+                "fin": "#d56433",
+                "flank": "#b0be5b",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#d1db94",
+                "lid": "#b0be5b",
+                "mouth": "#7a2f36",
+                "plate": "#7c8341",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.799358,
+                    "s0": 0.611528,
+                    "s1": 0.801988
+                },
+                "dorsal": {
+                    "h": 1.417011,
+                    "membrane": 0.643577,
+                    "s0": 0.271429,
+                    "s1": 0.522602
+                },
+                "eye": {
+                    "bulge": 0.788396,
+                    "k": 0.257686,
+                    "size": 0.274245,
+                    "theta": 91.649024
+                },
+                "pectoral": {
+                    "filament": 0.088351,
+                    "len": 0.632087,
+                    "s": 0.275123
+                },
+                "pelvic": {
+                    "len": 1.088153,
+                    "s": 0.43182
+                },
+                "tail": {
+                    "fork": 0.512336,
+                    "len": 0.897059,
+                    "lobe": 1.062939,
+                    "shape": 3,
+                    "streamer": 0.557156
+                }
+            },
+            "plan": "round",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "stripes",
+                "lateral": false,
+                "scales": 1.0,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "perch",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "c00da6447602a0126066b31bb209e7d73a1ca0c48e90d8fb2eee2b9ca6629359",
+        "seed": 1,
+        "species": "perch",
+        "strength": 1.0,
+        "tris": 517
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.055369,
+                "curve": -0.009975,
+                "height": 0.172529,
+                "hump": 0.192907,
+                "nb": 2.28136,
+                "nose": 0.153312,
+                "nose_p": 2.794355,
+                "nt": 2.46401,
+                "peak": 0.404048,
+                "pinch": 0.357755,
+                "sag": 0.224377,
+                "snout_up": 0.343577,
+                "tail": 0.167468,
+                "taper": 1.933443,
+                "width": 0.377971
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.212441,
+            "palette": {
+                "accent": "#4c4824",
+                "arm": "#a69156",
+                "back": "#756e4a",
+                "barbel": "#ddc686",
+                "belly": "#fcecc5",
+                "bulb": "#88ffee",
+                "fin": "#e43d4d",
+                "flank": "#ccb165",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#ebd7a1",
+                "lid": "#ccb165",
+                "mouth": "#7a2f36",
+                "plate": "#8d7948",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.33008,
+                    "s0": 0.611972,
+                    "s1": 0.872072
+                },
+                "dorsal": {
+                    "h": 1.365188,
+                    "membrane": 0.69591,
+                    "s0": 0.296879,
+                    "s1": 0.6458
+                },
+                "eye": {
+                    "bulge": 0.679983,
+                    "k": 0.219709,
+                    "size": 0.203189,
+                    "theta": 87.24164
+                },
+                "pectoral": {
+                    "filament": 0.978277,
+                    "len": 1.054862,
+                    "s": 0.297599
+                },
+                "pelvic": {
+                    "len": 1.185893,
+                    "s": 0.448923
+                },
+                "tail": {
+                    "fork": 0.27126,
+                    "len": 0.848415,
+                    "lobe": 1.092004,
+                    "shape": 1,
+                    "streamer": 0.888376
+                }
+            },
+            "plan": "round",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "plain",
+                "lateral": false,
+                "scales": 1.0,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "perch",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "46e8f21c1b6a4ba12d8e9d38aa0211017fca5ca3deaa2c2234e29d925c06e064",
+        "seed": 2,
+        "species": "perch",
+        "strength": 1.0,
+        "tris": 520
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.040969,
+                "curve": 0.017119,
+                "height": 0.181894,
+                "hump": 0.023014,
+                "nb": 2.136376,
+                "nose": 0.183025,
+                "nose_p": 1.603758,
+                "nt": 2.213247,
+                "peak": 0.547493,
+                "pinch": 0.008862,
+                "sag": 0.1466,
+                "snout_up": 0.471165,
+                "tail": 0.114472,
+                "taper": 1.17594,
+                "width": 0.652603
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.398338,
+            "palette": {
+                "accent": "#fbf1bd",
+                "arm": "#657444",
+                "back": "#49543d",
+                "barbel": "#99a871",
+                "belly": "#cdd6b1",
+                "bulb": "#88ffee",
+                "fin": "#5c6236",
+                "flank": "#7b8e50",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#afbc8d",
+                "lid": "#7b8e50",
+                "mouth": "#7a2f36",
+                "plate": "#59643a",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.799358,
+                    "s0": 0.651528,
+                    "s1": 0.831491
+                },
+                "dorsal": {
+                    "h": 1.417011,
+                    "membrane": 0.643577,
+                    "s0": 0.640953,
+                    "s1": 0.786952
+                },
+                "eye": {
+                    "bulge": 0.788396,
+                    "k": 0.257686,
+                    "size": 0.274245,
+                    "theta": 91.649024
+                },
+                "jaw": {
+                    "drop": 0.384658,
+                    "gape": 12.826932,
+                    "proj": 1.193723,
+                    "slope": 0.082257,
+                    "teeth": 6,
+                    "tooth": 0.262514,
+                    "up": 0
+                },
+                "pectoral": {
+                    "filament": 0.088351,
+                    "len": 0.632087,
+                    "s": 0.275123
+                },
+                "pelvic": {
+                    "len": 1.088153,
+                    "s": 0.43182
+                },
+                "tail": {
+                    "fork": 0.512336,
+                    "len": 0.897059,
+                    "lobe": 1.062939,
+                    "shape": 0,
+                    "streamer": 0.557156
+                }
+            },
+            "plan": "round",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "stripes",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "pike",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "9b8ae29a471fc97d0ae073b9d4b819c2bbb439c7cefb16c26320649211fcaf1b",
+        "seed": 1,
+        "species": "pike",
+        "strength": 1.0,
+        "tris": 620
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.055369,
+                "curve": -0.009975,
+                "height": 0.129081,
+                "hump": 0.032151,
+                "nb": 2.28136,
+                "nose": 0.153312,
+                "nose_p": 1.931895,
+                "nt": 2.46401,
+                "peak": 0.563941,
+                "pinch": 0.357755,
+                "sag": 0.224377,
+                "snout_up": 0.343577,
+                "tail": 0.167468,
+                "taper": 1.933443,
+                "width": 0.377971
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.341037,
+            "palette": {
+                "accent": "#ffdcc2",
+                "arm": "#7d794b",
+                "back": "#585b43",
+                "barbel": "#b4ac7b",
+                "belly": "#e5dfbf",
+                "bulb": "#88ffee",
+                "fin": "#695e3b",
+                "flank": "#989258",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#cac499",
+                "lid": "#989258",
+                "mouth": "#7a2f36",
+                "plate": "#6c6540",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.33008,
+                    "s0": 0.651972,
+                    "s1": 0.884054
+                },
+                "dorsal": {
+                    "h": 1.365188,
+                    "membrane": 0.69591,
+                    "s0": 0.657919,
+                    "s1": 0.87935
+                },
+                "eye": {
+                    "bulge": 0.679983,
+                    "k": 0.219709,
+                    "size": 0.203189,
+                    "theta": 87.24164
+                },
+                "jaw": {
+                    "drop": 0.361317,
+                    "gape": 13.034341,
+                    "proj": 1.272231,
+                    "slope": 0.07087,
+                    "teeth": 5,
+                    "tooth": 0.226308,
+                    "up": 0
+                },
+                "pectoral": {
+                    "filament": 0.978277,
+                    "len": 1.054862,
+                    "s": 0.297599
+                },
+                "pelvic": {
+                    "len": 1.185893,
+                    "s": 0.448923
+                },
+                "tail": {
+                    "fork": 0.27126,
+                    "len": 0.848415,
+                    "lobe": 1.092004,
+                    "shape": 0,
+                    "streamer": 0.888376
+                }
+            },
+            "plan": "round",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "mottle",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "pike",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "4089e3827cb42aaf69ca2353a30b43831bc3defa707607a94f61d1fa8b575487",
+        "seed": 2,
+        "species": "pike",
+        "strength": 1.0,
+        "tris": 617
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "curve": 0.020542,
+                "height": 0.080947,
+                "hump": 0.092055,
+                "nb": 2.386376,
+                "nose": 0.305041,
+                "nose_p": 2.278193,
+                "nt": 2.568497,
+                "peak": 0.477637,
+                "pinch": 0.00633,
+                "tail": 0.230063,
+                "taper": 0.97594,
+                "width": 8.032538
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.236461,
+            "palette": {
+                "accent": "#71613d",
+                "arm": "#92865c",
+                "back": "#64604c",
+                "barbel": "#c6ba88",
+                "belly": "#e7e0be",
+                "bulb": "#88ffee",
+                "fin": "#c4ac76",
+                "flank": "#b3a46e",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#d3caa0",
+                "lid": "#b3a46e",
+                "mouth": "#7a2f36",
+                "plate": "#7e724d",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "eye": {
+                    "bulge": 0.441297,
+                    "k": 0.296143,
+                    "size": 0.274245,
+                    "theta": 18.53064
+                },
+                "fringe": {
+                    "h": 0.16623,
+                    "membrane": 0.651095,
+                    "s0": 0.295832,
+                    "s1": 0.806443
+                },
+                "tail": {
+                    "fork": 0.18743,
+                    "len": 0.249118,
+                    "lobe": 0.406654,
+                    "shape": 3
+                }
+            },
+            "plan": "flat",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "spots",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "plaice",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "67a90e5835605cd07d88cd27a941dda14a3ebb2833452435aef1549538e0b4f8",
+        "seed": 1,
+        "species": "plaice",
+        "strength": 1.0,
+        "tris": 578
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "curve": -0.01197,
+                "height": 0.05454,
+                "hump": 0.128605,
+                "nb": 2.53136,
+                "nose": 0.25552,
+                "nose_p": 2.755484,
+                "nt": 2.783437,
+                "peak": 0.500857,
+                "pinch": 0.255539,
+                "tail": 0.349302,
+                "taper": 1.733443,
+                "width": 4.599642
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.200648,
+            "palette": {
+                "accent": "#7a5343",
+                "arm": "#9d7964",
+                "back": "#6c5d53",
+                "barbel": "#d4af95",
+                "belly": "#f8e0ce",
+                "bulb": "#88ffee",
+                "fin": "#d39981",
+                "flank": "#c19378",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#e3c4ae",
+                "lid": "#c19378",
+                "mouth": "#7a2f36",
+                "plate": "#876754",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "eye": {
+                    "bulge": 0.359987,
+                    "k": 0.232849,
+                    "size": 0.203189,
+                    "theta": 15.776025
+                },
+                "fringe": {
+                    "h": 0.353581,
+                    "membrane": 0.942285,
+                    "s0": 0.233282,
+                    "s1": 0.884003
+                },
+                "tail": {
+                    "fork": 0.084111,
+                    "len": 0.234525,
+                    "lobe": 0.421602,
+                    "shape": 2
+                }
+            },
+            "plan": "flat",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "blotch",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "plaice",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "7c3628276538b08c4a89c03bcbdbd1e83eab72f49d34ea0fb48bf3dea1a6a5a0",
+        "seed": 2,
+        "species": "plaice",
+        "strength": 1.0,
+        "tris": 584
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "height": 0.528924,
+                "nb": 2.067536,
+                "nose": 0.305041,
+                "nose_p": 2.158645,
+                "nt": 2.089499,
+                "peak": 0.514698,
+                "pinch": 0.060128,
+                "sag": 0.162889,
+                "tail": 0.154472,
+                "taper": 0.859963,
+                "width": 1.052603
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.149169,
+            "palette": {
+                "accent": "#553d21",
+                "arm": "#ae9a63",
+                "back": "#756d50",
+                "barbel": "#e1cf90",
+                "belly": "#f6ebc1",
+                "bulb": "#88ffee",
+                "fin": "#ab9c54",
+                "flank": "#d6be76",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#eadba6",
+                "lid": "#d6be76",
+                "mouth": "#7a2f36",
+                "plate": "#948452",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.656593,
+                    "s0": 0.611528,
+                    "s1": 0.771491
+                },
+                "dorsal": {
+                    "h": 0.870206,
+                    "membrane": 0.693577,
+                    "s0": 0.571429,
+                    "s1": 0.726952
+                },
+                "eye": {
+                    "bulge": 0.888396,
+                    "k": 0.3173,
+                    "size": 0.294245,
+                    "theta": 91.649024
+                },
+                "pectoral": {
+                    "len": 0.282835,
+                    "s": 0.355123
+                },
+                "spikes": {
+                    "h": 0.082508,
+                    "step": 2
+                },
+                "tail": {
+                    "fork": 0.18743,
+                    "len": 0.498235,
+                    "lobe": 0.811091,
+                    "shape": 3
+                }
+            },
+            "plan": "globe",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "mottle",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "puffer",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "e911edc583787ca9f6d1d687f1a3258b0912562c7bdc11242b25eb60b05961f8",
+        "seed": 1,
+        "species": "puffer",
+        "strength": 1.0,
+        "tris": 530
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "height": 0.39161,
+                "nb": 2.10896,
+                "nose": 0.25552,
+                "nose_p": 2.516613,
+                "nt": 2.161146,
+                "peak": 0.534048,
+                "pinch": 0.458862,
+                "sag": 0.249308,
+                "tail": 0.207468,
+                "taper": 1.333402,
+                "width": 0.777971
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.120518,
+            "palette": {
+                "accent": "#5c2c25",
+                "arm": "#bb876d",
+                "back": "#7e6658",
+                "barbel": "#f2bd9d",
+                "belly": "#ffdfca",
+                "bulb": "#88ffee",
+                "fin": "#b7835d",
+                "flank": "#e5a582",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#fbd0b5",
+                "lid": "#e5a582",
+                "mouth": "#7a2f36",
+                "plate": "#9f725a",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.254354,
+                    "s0": 0.611972,
+                    "s1": 0.824054
+                },
+                "dorsal": {
+                    "h": 0.839113,
+                    "membrane": 0.74591,
+                    "s0": 0.596879,
+                    "s1": 0.81935
+                },
+                "eye": {
+                    "bulge": 0.779983,
+                    "k": 0.272994,
+                    "size": 0.223189,
+                    "theta": 87.24164
+                },
+                "pectoral": {
+                    "len": 0.451945,
+                    "s": 0.377599
+                },
+                "spikes": {
+                    "h": 0.173519,
+                    "step": 2
+                },
+                "tail": {
+                    "fork": 0.084111,
+                    "len": 0.469049,
+                    "lobe": 0.836003,
+                    "shape": 2
+                }
+            },
+            "plan": "globe",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "stripes",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "puffer",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "0e9238472da0995938e232e06c14ca697fb0abcb7e5a5b2c1b1859bd9d24e448",
+        "seed": 2,
+        "species": "puffer",
+        "strength": 1.0,
+        "tris": 530
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.045521,
+                "curl": 0.517136,
+                "height": 0.133515,
+                "nb": 2.202608,
+                "nose": 0.305041,
+                "nose_p": 1.918419,
+                "nt": 2.268497,
+                "peak": 0.364698,
+                "tail": 0.089648,
+                "taper": 0.68797,
+                "width": 0.953254
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.135647,
+            "palette": {
+                "accent": "#78460f",
+                "arm": "#bb8e38",
+                "back": "#7e6536",
+                "barbel": "#efc265",
+                "belly": "#fde4aa",
+                "bulb": "#88ffee",
+                "fin": "#efc764",
+                "flank": "#e7ae41",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#f6d083",
+                "lid": "#e7ae41",
+                "mouth": "#7a2f36",
+                "plate": "#9f7930",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "dorsal": {
+                    "h": 1.293608,
+                    "membrane": 0.793577,
+                    "s0": 0.371429,
+                    "s1": 0.506952
+                },
+                "eye": {
+                    "bulge": 0.788396,
+                    "k": 0.296143,
+                    "size": 0.274245,
+                    "theta": 91.649024
+                },
+                "pectoral": {
+                    "len": 0.399252,
+                    "s": 0.210082
+                }
+            },
+            "plan": "seahorse",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "spots",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "seahorse",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "c7b813879df8e9715b90df92be65ee493e67d614f6768aa2bb14b08f47599f68",
+        "seed": 1,
+        "species": "seahorse",
+        "strength": 1.0,
+        "tris": 642
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.061521,
+                "curl": 0.751887,
+                "height": 0.091265,
+                "nb": 2.32688,
+                "nose": 0.25552,
+                "nose_p": 2.336049,
+                "nt": 2.483437,
+                "peak": 0.384048,
+                "tail": 0.124978,
+                "taper": 1.066721,
+                "width": 0.609964
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.114876,
+            "palette": {
+                "accent": "#802114",
+                "arm": "#c96441",
+                "back": "#874f3d",
+                "barbel": "#ff9770",
+                "belly": "#ffc6ae",
+                "bulb": "#88ffee",
+                "fin": "#ff9c6f",
+                "flank": "#f8784c",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#ffab8c",
+                "lid": "#f8784c",
+                "mouth": "#7a2f36",
+                "plate": "#ab5537",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "dorsal": {
+                    "h": 1.25215,
+                    "membrane": 0.84591,
+                    "s0": 0.396879,
+                    "s1": 0.59935
+                },
+                "eye": {
+                    "bulge": 0.679983,
+                    "k": 0.232849,
+                    "size": 0.203189,
+                    "theta": 87.24164
+                },
+                "pectoral": {
+                    "len": 0.652917,
+                    "s": 0.225066
+                }
+            },
+            "plan": "seahorse",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "mottle",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "seahorse",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "309f1067e5aafe504e18102390240aa51a7851b2460eb246f92d0b9b82c8841f",
+        "seed": 2,
+        "species": "seahorse",
+        "strength": 1.0,
+        "tris": 645
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "height": 0.070947,
+                "nb": 2.386376,
+                "nose": 0.338182,
+                "nose_p": 1.768419,
+                "nt": 2.568497,
+                "peak": 0.457637,
+                "tail": 0.072236,
+                "taper": 0.565978,
+                "width": 9.039045
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.315114,
+            "palette": {
+                "accent": "#decf98",
+                "arm": "#796c50",
+                "back": "#544f45",
+                "barbel": "#aca07d",
+                "belly": "#d8d1b7",
+                "bulb": "#88ffee",
+                "fin": "#82724e",
+                "flank": "#93835f",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#bfb597",
+                "lid": "#93835f",
+                "mouth": "#7a2f36",
+                "plate": "#6a5d44",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "dorsal": {
+                    "h": 1.093608,
+                    "membrane": 0.595718,
+                    "s0": 0.711429,
+                    "s1": 0.826952
+                },
+                "eye": {
+                    "bulge": 0.441297,
+                    "k": 0.296143,
+                    "size": 0.274245,
+                    "theta": 18.53064
+                },
+                "wing": {
+                    "h": 0.400857,
+                    "membrane": 0.807855,
+                    "s0": 0.1197,
+                    "s1": 0.672758
+                }
+            },
+            "plan": "ray",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "spots",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "skate",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "62e94dd17e9e5bda68fe37b09c73bc598bf0e173a77d5f48e84ade8e28e63119",
+        "seed": 1,
+        "species": "skate",
+        "strength": 1.0,
+        "tris": 584
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "height": 0.04454,
+                "nb": 2.53136,
+                "nose": 0.27009,
+                "nose_p": 2.186049,
+                "nt": 2.783437,
+                "peak": 0.480857,
+                "tail": 0.098734,
+                "taper": 0.850041,
+                "width": 4.919571
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.189768,
+            "palette": {
+                "accent": "#eec1a6",
+                "arm": "#826358",
+                "back": "#5b4f4b",
+                "barbel": "#b99988",
+                "belly": "#e8d3c6",
+                "bulb": "#88ffee",
+                "fin": "#8c6556",
+                "flank": "#9e7868",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#cdb2a3",
+                "lid": "#9e7868",
+                "mouth": "#7a2f36",
+                "plate": "#71544a",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "dorsal": {
+                    "h": 1.05215,
+                    "membrane": 0.630607,
+                    "s0": 0.736879,
+                    "s1": 0.91935
+                },
+                "eye": {
+                    "bulge": 0.359987,
+                    "k": 0.232849,
+                    "size": 0.203189,
+                    "theta": 15.776025
+                },
+                "wing": {
+                    "h": 0.568146,
+                    "membrane": 0.597754,
+                    "s0": 0.135855,
+                    "s1": 0.621311
+                }
+            },
+            "plan": "ray",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "eyespot",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "skate",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "fb19637aa32669f9d1b0738793369f912b86bd0c25cd6b7852f7422ffaaacb56",
+        "seed": 2,
+        "species": "skate",
+        "strength": 1.0,
+        "tris": 578
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "height": 0.26703,
+                "nb": 2.067536,
+                "nose": 0.375273,
+                "nose_p": 2.078193,
+                "nt": 2.089499,
+                "peak": 0.547493,
+                "tail": 0.077795,
+                "taper": 0.759963,
+                "width": 1.051952
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.235214,
+            "palette": {
+                "accent": "#ffcbd2",
+                "arm": "#a7616e",
+                "back": "#714958",
+                "barbel": "#db959b",
+                "belly": "#f2ccc9",
+                "bulb": "#88ffee",
+                "fin": "#ab5c6c",
+                "flank": "#cd7685",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#e5acb0",
+                "lid": "#cd7685",
+                "mouth": "#7a2f36",
+                "plate": "#8f545c",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "arms": {
+                    "curl": 0.217385,
+                    "len": 3.388542,
+                    "n": 8,
+                    "suck": 0.641652
+                },
+                "club": {
+                    "curl": 0.302256,
+                    "len": 4.604009,
+                    "n": 2,
+                    "size": 1.379645
+                },
+                "eye": {
+                    "bulge": 0.888396,
+                    "k": 0.338457,
+                    "size": 0.279396,
+                    "theta": 91.649024
+                },
+                "fringe": {
+                    "h": 0.465575,
+                    "membrane": 0.809688,
+                    "s0": 0.686874,
+                    "s1": 0.898423
+                }
+            },
+            "plan": "squid",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "mottle",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "squid",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "8e1dc4b0e5b195c8e0dcaff887a8669a3eae05e6fbb4a6eb875b9851d2d41bb5",
+        "seed": 1,
+        "species": "squid",
+        "strength": 1.0,
+        "tris": 1166
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "height": 0.182529,
+                "nb": 2.10896,
+                "nose": 0.348036,
+                "nose_p": 2.555484,
+                "nt": 2.161146,
+                "peak": 0.563941,
+                "tail": 0.110917,
+                "taper": 1.233402,
+                "width": 0.845979
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.156425,
+            "palette": {
+                "accent": "#ffcde8",
+                "arm": "#b36a95",
+                "back": "#7a5070",
+                "barbel": "#eba3c6",
+                "belly": "#ffd5e2",
+                "bulb": "#88ffee",
+                "fin": "#b76697",
+                "flank": "#dc82b6",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#f5bad6",
+                "lid": "#dc82b6",
+                "mouth": "#7a2f36",
+                "plate": "#9a5d7e",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "arms": {
+                    "curl": 0.710581,
+                    "len": 1.750657,
+                    "n": 8,
+                    "suck": 0.686625
+                },
+                "club": {
+                    "curl": 0.61161,
+                    "len": 6.510315,
+                    "n": 2,
+                    "size": 1.025201
+                },
+                "eye": {
+                    "bulge": 0.779983,
+                    "k": 0.31314,
+                    "size": 0.222552,
+                    "theta": 87.24164
+                },
+                "fringe": {
+                    "h": 0.933952,
+                    "membrane": 0.968519,
+                    "s0": 0.639962,
+                    "s1": 0.939626
+                }
+            },
+            "plan": "squid",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "gradient",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "squid",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "47cec413dab03991b1e4b2408a11f7a9f2ff57fc21c37d91e30c76c0f12c80f9",
+        "seed": 2,
+        "species": "squid",
+        "strength": 1.0,
+        "tris": 1166
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "curve": 0.017119,
+                "height": 0.181894,
+                "nb": 2.386376,
+                "nose": 0.163025,
+                "nose_p": 1.768419,
+                "nt": 2.068497,
+                "peak": 0.377637,
+                "pinch": 0.007596,
+                "rostrum": 0.09808,
+                "snout_up": 0.161553,
+                "tail": 0.085207,
+                "taper": 0.931955,
+                "width": 0.953254
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.495013,
+            "palette": {
+                "accent": "#aaab91",
+                "arm": "#5d5d4f",
+                "back": "#434644",
+                "barbel": "#91917b",
+                "belly": "#c8c9b6",
+                "bulb": "#88ffee",
+                "fin": "#5e5e4d",
+                "flank": "#71715e",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#a8a996",
+                "lid": "#71715e",
+                "mouth": "#7a2f36",
+                "plate": "#535243",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.856593,
+                    "s0": 0.691528,
+                    "s1": 0.831491
+                },
+                "barbels": {
+                    "curl": 0.387222,
+                    "len": 0.441172,
+                    "n": 4,
+                    "tip": 0.135627
+                },
+                "dorsal": {
+                    "h": 1.293608,
+                    "membrane": 0.594647,
+                    "s0": 0.640953,
+                    "s1": 0.786952
+                },
+                "eye": {
+                    "bulge": 0.788396,
+                    "k": 0.396143,
+                    "size": 0.259396,
+                    "theta": 91.649024
+                },
+                "jaw": {
+                    "drop": 0.323105,
+                    "gape": 7.413466,
+                    "proj": 0.077489,
+                    "slope": 0.082257,
+                    "teeth": 0,
+                    "tooth": 0.242514,
+                    "up": 0
+                },
+                "pectoral": {
+                    "len": 0.732087,
+                    "s": 0.215123
+                },
+                "pelvic": {
+                    "len": 0.966115,
+                    "s": 0.53182
+                },
+                "tail": {
+                    "fork": 0.449907,
+                    "len": 0.997059,
+                    "lobe": 1.314787,
+                    "shape": 0
+                }
+            },
+            "plan": "armoured",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "mottle",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "sturgeon",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "2695c1d9fc700ad23f9ae9f47300c3e69bb17f79d8264675d56a112ef76225a4",
+        "seed": 1,
+        "species": "sturgeon",
+        "strength": 1.0,
+        "tris": 650
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "curve": -0.009975,
+                "height": 0.129081,
+                "nb": 2.53136,
+                "nose": 0.133312,
+                "nose_p": 2.186049,
+                "nt": 2.283437,
+                "peak": 0.400857,
+                "pinch": 0.306647,
+                "rostrum": 0.093248,
+                "snout_up": -0.008564,
+                "tail": 0.127162,
+                "taper": 1.500082,
+                "width": 0.609964
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.32311,
+            "palette": {
+                "accent": "#b7ad9c",
+                "arm": "#645e55",
+                "back": "#484c48",
+                "barbel": "#9c9385",
+                "belly": "#d7d0c4",
+                "bulb": "#88ffee",
+                "fin": "#655e53",
+                "flank": "#7a7265",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#b5aea2",
+                "lid": "#7a7265",
+                "mouth": "#7a2f36",
+                "plate": "#595148",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.454354,
+                    "s0": 0.691972,
+                    "s1": 0.884054
+                },
+                "barbels": {
+                    "curl": 0.977468,
+                    "len": 0.328476,
+                    "n": 4,
+                    "tip": 0.139136
+                },
+                "dorsal": {
+                    "h": 1.25215,
+                    "membrane": 0.638258,
+                    "s0": 0.657919,
+                    "s1": 0.87935
+                },
+                "eye": {
+                    "bulge": 0.679983,
+                    "k": 0.332849,
+                    "size": 0.202552,
+                    "theta": 87.24164
+                },
+                "jaw": {
+                    "drop": 0.307544,
+                    "gape": 7.51717,
+                    "proj": 0.108893,
+                    "slope": 0.07087,
+                    "teeth": 0,
+                    "tooth": 0.206308,
+                    "up": 0
+                },
+                "pectoral": {
+                    "len": 1.154862,
+                    "s": 0.237599
+                },
+                "pelvic": {
+                    "len": 1.03942,
+                    "s": 0.548923
+                },
+                "tail": {
+                    "fork": 0.312148,
+                    "len": 0.948415,
+                    "lobe": 1.348004,
+                    "shape": 0
+                }
+            },
+            "plan": "armoured",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "gradient",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "sturgeon",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "968b60d6543520eb58cb4a53e497d8deea467f4551314f85c3862bd2f3a7545b",
+        "seed": 2,
+        "species": "sturgeon",
+        "strength": 1.0,
+        "tris": 653
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.045521,
+                "height": 0.801362,
+                "hump": 0.115068,
+                "nb": 1.986376,
+                "nose": 0.204033,
+                "nose_p": 2.078193,
+                "nt": 2.463247,
+                "peak": 0.494179,
+                "pinch": 0.007596,
+                "sag": 0.162889,
+                "tail": 0.124121,
+                "taper": 0.831955,
+                "width": 0.28026
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.322091,
+            "palette": {
+                "accent": "#d5dbe2",
+                "arm": "#868e99",
+                "back": "#5c6572",
+                "barbel": "#bac2c6",
+                "belly": "#e0e5e0",
+                "bulb": "#88ffee",
+                "fin": "#939da9",
+                "flank": "#a4aeba",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#cad1d2",
+                "lid": "#a4aeba",
+                "mouth": "#7a2f36",
+                "plate": "#74797e",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 1.884247,
+                    "s0": 0.483056,
+                    "s1": 0.741988
+                },
+                "dorsal": {
+                    "h": 2.634021,
+                    "membrane": 0.817506,
+                    "s0": 0.461905,
+                    "s1": 0.702602
+                },
+                "eye": {
+                    "bulge": 0.788396,
+                    "k": 0.276914,
+                    "size": 0.274245,
+                    "theta": 91.649024
+                },
+                "pectoral": {
+                    "len": 0.266044,
+                    "s": 0.315123
+                },
+                "pelvic": {
+                    "back": 0.297957,
+                    "len": 1.598345,
+                    "s": 0.37182
+                },
+                "tail": {
+                    "fork": 0.281145,
+                    "len": 0.199118,
+                    "lobe": 0.407394,
+                    "shape": 3
+                }
+            },
+            "plan": "disc",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "mottle",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "sunfish",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "298b6497e817e8fce21aaae0ed25fa31004f9b1ce7c9f2ee3468c08608627798",
+        "seed": 1,
+        "species": "sunfish",
+        "strength": 1.0,
+        "tris": 741
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.061521,
+                "height": 0.484486,
+                "hump": 0.160756,
+                "nb": 2.13136,
+                "nose": 0.164416,
+                "nose_p": 2.555484,
+                "nt": 2.71401,
+                "peak": 0.52272,
+                "pinch": 0.306647,
+                "sag": 0.249308,
+                "tail": 0.212446,
+                "taper": 1.400082,
+                "width": 0.252797
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.221814,
+            "palette": {
+                "accent": "#e5f1f3",
+                "arm": "#91a1a4",
+                "back": "#64767b",
+                "barbel": "#c8d4d3",
+                "belly": "#f2f5f1",
+                "bulb": "#88ffee",
+                "fin": "#9eb2b5",
+                "flank": "#b1c5c7",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#d9e2e0",
+                "lid": "#b1c5c7",
+                "mouth": "#7a2f36",
+                "plate": "#7d8787",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.811611,
+                    "s0": 0.483944,
+                    "s1": 0.812072
+                },
+                "dorsal": {
+                    "h": 2.530376,
+                    "membrane": 0.878562,
+                    "s0": 0.495838,
+                    "s1": 0.8258
+                },
+                "eye": {
+                    "bulge": 0.679983,
+                    "k": 0.226279,
+                    "size": 0.203189,
+                    "theta": 87.24164
+                },
+                "pectoral": {
+                    "len": 0.477431,
+                    "s": 0.337599
+                },
+                "pelvic": {
+                    "back": 0.110203,
+                    "len": 1.81826,
+                    "s": 0.388923
+                },
+                "tail": {
+                    "fork": 0.126167,
+                    "len": 0.184525,
+                    "lobe": 0.424002,
+                    "shape": 3
+                }
+            },
+            "plan": "disc",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "plain",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "sunfish",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "be180c03a1138fa282f57ee23abed647541a1fe7ae842af98c449d1bc54585bd",
+        "seed": 2,
+        "species": "sunfish",
+        "strength": 1.0,
+        "tris": 747
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.040969,
+                "curve": 0.017119,
+                "height": 0.250272,
+                "hump": 0.138082,
+                "nb": 2.136376,
+                "nose": 0.142017,
+                "nose_p": 1.521427,
+                "nt": 2.213247,
+                "peak": 0.431758,
+                "pinch": 0.306752,
+                "sag": 0.1466,
+                "snout_up": 0.471165,
+                "tail": 0.114472,
+                "taper": 1.17594,
+                "width": 0.652603
+            },
+            "finish": {
+                "gloss": 0.781,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.596675,
+            "palette": {
+                "accent": "#d9e7f6",
+                "arm": "#283d64",
+                "back": "#223151",
+                "barbel": "#5d7191",
+                "belly": "#abb7c2",
+                "bulb": "#88ffee",
+                "fin": "#f6de4e",
+                "flank": "#304978",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#7e8fa8",
+                "lid": "#304978",
+                "mouth": "#7a2f36",
+                "plate": "#293753",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#e7dfbf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.799358,
+                    "s0": 0.611528,
+                    "s1": 0.801988
+                },
+                "dorsal": {
+                    "h": 1.070206,
+                    "membrane": 0.643577,
+                    "s0": 0.271429,
+                    "s1": 0.486952
+                },
+                "eye": {
+                    "bulge": 0.788396,
+                    "k": 0.257686,
+                    "size": 0.274245,
+                    "theta": 91.649024
+                },
+                "jaw": {
+                    "drop": 0.273105,
+                    "gape": 5.413466,
+                    "proj": 0.316234,
+                    "slope": 0.082257,
+                    "teeth": 0,
+                    "tooth": 0.242514,
+                    "up": 0
+                },
+                "pectoral": {
+                    "filament": 0.088351,
+                    "len": 0.832087,
+                    "s": 0.275123
+                },
+                "pelvic": {
+                    "len": 1.088153,
+                    "s": 0.43182
+                },
+                "tail": {
+                    "fork": 0.512336,
+                    "len": 1.297059,
+                    "lobe": 1.414787,
+                    "shape": 2,
+                    "streamer": 0.557156
+                }
+            },
+            "plan": "round",
+            "seed": 1,
+            "skin": {
+                "bars": 6,
+                "density": 0.8912,
+                "kind": "plain",
+                "lateral": false,
+                "scales": 1.07,
+                "seed": 930272505,
+                "tint": [-0.049, 0.0288, 0.0255]
+            },
+            "species": "tuna",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "32d0b3ade62a82efc3764e6779ccddc6aa2cdafa14705d7f5553331383710ed3",
+        "seed": 1,
+        "species": "tuna",
+        "strength": 1.0,
+        "tris": 605
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.055369,
+                "curve": -0.009975,
+                "height": 0.186897,
+                "hump": 0.192907,
+                "nb": 2.28136,
+                "nose": 0.122208,
+                "nose_p": 1.804819,
+                "nt": 2.46401,
+                "peak": 0.447238,
+                "pinch": 0.572575,
+                "sag": 0.224377,
+                "snout_up": 0.343577,
+                "tail": 0.167468,
+                "taper": 1.933443,
+                "width": 0.377971
+            },
+            "finish": {
+                "gloss": 0.112,
+                "kind": "none"
+            },
+            "gift": [],
+            "len_m": 0.482073,
+            "palette": {
+                "accent": "#e3fbff",
+                "arm": "#2e5b6c",
+                "back": "#264a57",
+                "barbel": "#66919c",
+                "belly": "#b9ced1",
+                "bulb": "#88ffee",
+                "fin": "#ffa357",
+                "flank": "#366e80",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#89abb4",
+                "lid": "#366e80",
+                "mouth": "#7a2f36",
+                "plate": "#2d4e59",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#f8dfcf",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.33008,
+                    "s0": 0.611972,
+                    "s1": 0.872072
+                },
+                "dorsal": {
+                    "h": 1.039113,
+                    "membrane": 0.69591,
+                    "s0": 0.296879,
+                    "s1": 0.57935
+                },
+                "eye": {
+                    "bulge": 0.679983,
+                    "k": 0.219709,
+                    "size": 0.203189,
+                    "theta": 87.24164
+                },
+                "jaw": {
+                    "drop": 0.257544,
+                    "gape": 5.51717,
+                    "proj": 0.363339,
+                    "slope": 0.07087,
+                    "teeth": 0,
+                    "tooth": 0.206308,
+                    "up": 0
+                },
+                "pectoral": {
+                    "filament": 0.978277,
+                    "len": 1.254862,
+                    "s": 0.297599
+                },
+                "pelvic": {
+                    "len": 1.185893,
+                    "s": 0.448923
+                },
+                "tail": {
+                    "fork": 0.27126,
+                    "len": 1.248415,
+                    "lobe": 1.448004,
+                    "shape": 2,
+                    "streamer": 0.888376
+                }
+            },
+            "plan": "round",
+            "seed": 2,
+            "skin": {
+                "bars": 6,
+                "density": 1.1625,
+                "kind": "stripes",
+                "lateral": false,
+                "scales": 0.503,
+                "seed": 328011980,
+                "tint": [-0.0037, 0.004, 0.0429]
+            },
+            "species": "tuna",
+            "v": 2
+        },
+        "gifts": [],
+        "hash": "6ae8697f08733d828c0d57628f829bc04c42a3bd0f285894deab64da521c6042",
+        "seed": 2,
+        "species": "tuna",
+        "strength": 1.0,
+        "tris": 605
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "brow": 0.169217,
+                "curve": -0.002849,
+                "height": 0.355682,
+                "hump": 0.089089,
+                "nb": 1.728465,
+                "nose": 0.203919,
+                "nose_p": 1.307532,
+                "nt": 2.42956,
+                "peak": 0.474963,
+                "pinch": 0.38655,
+                "sag": 0.219262,
+                "tail": 0.13069,
+                "taper": 1.665573,
+                "width": 1.029475
+            },
+            "finish": {
+                "gloss": 0.521,
+                "kind": "none"
+            },
+            "gift": [
+                {
+                    "gene": "fanged",
+                    "x": 1.0
+                },
+                {
+                    "gene": "lure",
+                    "x": 1.0
+                }
+            ],
+            "len_m": 0.415022,
+            "palette": {
+                "accent": "#c3d0dc",
+                "arm": "#272b36",
+                "back": "#212935",
+                "barbel": "#5d5f64",
+                "belly": "#b0afad",
+                "bulb": "#88ffee",
+                "fin": "#3d4b54",
+                "flank": "#2d313e",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#818284",
+                "lid": "#2d313e",
+                "mouth": "#7a2f36",
+                "plate": "#25252e",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#eedbc4",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.897812,
+                    "s0": 0.668497,
+                    "s1": 0.738837
+                },
+                "dorsal": {
+                    "h": 0.746895,
+                    "membrane": 0.501763,
+                    "s0": 0.352316,
+                    "s1": 0.590982
+                },
+                "dorsal2": {
+                    "h": 0.577778,
+                    "membrane": 0.776064,
+                    "s0": 0.627572,
+                    "s1": 0.70877
+                },
+                "eye": {
+                    "bulge": 0.96187,
+                    "k": 0.21177,
+                    "size": 0.328133,
+                    "theta": 90.519941
+                },
+                "jaw": {
+                    "drop": 0.488121,
+                    "gape": 11.251387,
+                    "proj": 1.259289,
+                    "slope": 0.067522,
+                    "teeth": 9,
+                    "tooth": 0.390239,
+                    "up": 0
+                },
+                "lure": {
+                    "bulb": 0.905266,
+                    "curl": 0.617029,
+                    "s": 0.076803,
+                    "stalk": 1.832333
+                },
+                "pectoral": {
+                    "filament": 1.437107,
+                    "len": 0.690934,
+                    "s": 0.284221
+                },
+                "pelvic": {
+                    "len": 1.056553,
+                    "s": 0.435039
+                },
+                "tail": {
+                    "fork": 0.114839,
+                    "len": 1.174135,
+                    "lobe": 0.615373,
+                    "shape": 1,
+                    "streamer": 0.000917
+                }
+            },
+            "plan": "round",
+            "seed": 77,
+            "skin": {
+                "bars": 5,
+                "density": 1.2182,
+                "kind": "plain",
+                "lateral": true,
+                "scales": 1.398,
+                "seed": 555470547,
+                "tint": [0.0481, 0.0393, 0.0143]
+            },
+            "species": "angler",
+            "v": 2
+        },
+        "gifts": ["fanged", "lure"],
+        "hash": "7145d9ba786bc45a7021ab7e2881f3bdeebb8be42b23d3da5f79f7b5816ece1c",
+        "seed": 77,
+        "species": "angler",
+        "strength": 1.0,
+        "tris": 707
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "curve": -0.039529,
+                "height": 0.094274,
+                "hump": 0.11621,
+                "nb": 2.28396,
+                "nose": 0.239513,
+                "nose_p": 1.255639,
+                "nt": 2.693585,
+                "peak": 0.24501,
+                "tail": 0.091619,
+                "taper": 0.696251,
+                "width": 0.381595
+            },
+            "finish": {
+                "gloss": 0.455,
+                "kind": "none"
+            },
+            "gift": [
+                {
+                    "gene": "spined",
+                    "x": 1.0
+                }
+            ],
+            "len_m": 2.751877,
+            "palette": {
+                "accent": "#757786",
+                "arm": "#b1b2bc",
+                "back": "#797b88",
+                "barbel": "#e5e7ea",
+                "belly": "#f8fbf6",
+                "bulb": "#88ffee",
+                "fin": "#f25d57",
+                "flank": "#dadbe5",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#edeff0",
+                "lid": "#dadbe5",
+                "mouth": "#7a2f36",
+                "plate": "#97979b",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#eae8c7",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "crest": {
+                    "h": 1.783899,
+                    "membrane": 0.737963,
+                    "s0": 0.060632,
+                    "s1": 0.966914,
+                    "waves": 1.640002
+                },
+                "eye": {
+                    "bulge": 0.78422,
+                    "k": 0.307851,
+                    "size": 0.296073,
+                    "theta": 89.552067
+                },
+                "jaw": {
+                    "drop": 0.334514,
+                    "gape": 8.742328,
+                    "proj": 0.602545,
+                    "slope": 0.027058,
+                    "teeth": 0,
+                    "tooth": 0.310381,
+                    "up": 0
+                },
+                "pelvic": {
+                    "len": 2.195269,
+                    "s": 0.163014
+                },
+                "tail": {
+                    "fork": 0.051084,
+                    "len": 1.14707,
+                    "lobe": 0.437679,
+                    "shape": 1
+                }
+            },
+            "plan": "ribbon",
+            "seed": 78,
+            "skin": {
+                "bars": 4,
+                "density": 0.8894,
+                "kind": "mottle",
+                "lateral": false,
+                "scales": 1.325,
+                "seed": 1019778391,
+                "tint": [0.021, 0.0415, 0.0413]
+            },
+            "species": "oarfish",
+            "v": 2
+        },
+        "gifts": ["spined"],
+        "hash": "bc2886dd969d760e64142ffd260c9d2e3adc04e622c179b6a90cbd3fabf5acea",
+        "seed": 78,
+        "species": "oarfish",
+        "strength": 1.0,
+        "tris": 758
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "curve": 0.005645,
+                "head": 0.255623,
+                "height": 0.11028,
+                "nb": 1.924507,
+                "nose": 0.153074,
+                "nt": 2.235666,
+                "peak": 0.436976,
+                "pinch": 0.174339,
+                "tail": 0.10092,
+                "taper": 1.967679,
+                "width": 0.697247
+            },
+            "finish": {
+                "gloss": 0.455,
+                "kind": "none"
+            },
+            "gift": [
+                {
+                    "gene": "bigeye",
+                    "x": 1.0
+                },
+                {
+                    "gene": "winged",
+                    "x": 1.0
+                }
+            ],
+            "len_m": 2.313725,
+            "palette": {
+                "accent": "#a2aab2",
+                "arm": "#485560",
+                "back": "#343f4b",
+                "barbel": "#727f84",
+                "belly": "#a0a6a4",
+                "bulb": "#88ffee",
+                "fin": "#586874",
+                "flank": "#586874",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#869093",
+                "lid": "#586874",
+                "mouth": "#7a2f36",
+                "plate": "#414950",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#b8b097",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "anal": {
+                    "h": 0.405022,
+                    "s0": 0.751638,
+                    "s1": 0.820595
+                },
+                "dorsal": {
+                    "h": 2.432349,
+                    "membrane": 0.379289,
+                    "s0": 0.328596,
+                    "s1": 0.404022
+                },
+                "eye": {
+                    "bulge": 0.849582,
+                    "k": 0.3,
+                    "size": 0.288749,
+                    "theta": 89.219277
+                },
+                "pectoral": {
+                    "len": 1.246942,
+                    "s": 0.293422
+                },
+                "pelvic": {
+                    "len": 0.507004,
+                    "s": 0.608068
+                },
+                "tail": {
+                    "fork": 0.551266,
+                    "len": 1.561274,
+                    "lobe": 0.731766,
+                    "shape": 2
+                }
+            },
+            "plan": "hammerhead",
+            "seed": 79,
+            "skin": {
+                "bars": 4,
+                "density": 1.2326,
+                "kind": "plain",
+                "lateral": false,
+                "scales": 1.14,
+                "seed": 1849330366,
+                "tint": [-0.0154, 0.021, 0.0078]
+            },
+            "species": "hammerhead",
+            "v": 2
+        },
+        "gifts": ["bigeye", "winged"],
+        "hash": "bc80543017ddcc4663d942241755adb31005f81e9d1f165a7b471a10ff943908",
+        "seed": 79,
+        "species": "hammerhead",
+        "strength": 1.0,
+        "tris": 514
+    },
+    {
+        "genome": {
+            "behave": {},
+            "body": {
+                "curve": 0.017025,
+                "height": 0.084033,
+                "hump": 0.203698,
+                "nb": 2.733746,
+                "nose": 0.182628,
+                "nose_p": 2.793254,
+                "nt": 2.285808,
+                "peak": 0.499284,
+                "pinch": 0.275498,
+                "tail": 0.269381,
+                "taper": 1.577649,
+                "width": 8.393537
+            },
+            "finish": {
+                "gloss": 0.507,
+                "kind": "none"
+            },
+            "gift": [
+                {
+                    "gene": "cyclops",
+                    "x": 1.0
+                }
+            ],
+            "len_m": 0.653609,
+            "palette": {
+                "accent": "#625b3c",
+                "arm": "#7e7a57",
+                "back": "#575545",
+                "barbel": "#aaa87e",
+                "belly": "#c7c6aa",
+                "bulb": "#88ffee",
+                "fin": "#a99f71",
+                "flank": "#9b9668",
+                "glint": "#ffffff",
+                "iris": "#ffcc59",
+                "jaw": "#b6b491",
+                "lid": "#9b9668",
+                "mouth": "#7a2f36",
+                "plate": "#6d6949",
+                "pupil": "#1a1a2e",
+                "sclera": "#e6e1d2",
+                "spike": "#c7c5ab",
+                "stalk": "#3a3a46",
+                "sucker": "#efe3d0",
+                "tooth": "#ece6d2"
+            },
+            "parts": {
+                "eye": {
+                    "bulge": 0.463811,
+                    "k": 0.207159,
+                    "size": 0.252189,
+                    "theta": 19.953912
+                },
+                "fringe": {
+                    "h": 0.14037,
+                    "membrane": 0.922899,
+                    "s0": 0.166093,
+                    "s1": 0.957383
+                },
+                "tail": {
+                    "fork": 0.20654,
+                    "len": 0.254362,
+                    "lobe": 0.164615,
+                    "shape": 1
+                }
+            },
+            "plan": "flat",
+            "seed": 80,
+            "skin": {
+                "bars": 6,
+                "density": 1.1293,
+                "kind": "blotch",
+                "lateral": false,
+                "scales": 0.793,
+                "seed": 2104271764,
+                "tint": [0.0467, -0.0188, 0.0347]
+            },
+            "species": "plaice",
+            "v": 2
+        },
+        "gifts": ["cyclops"],
+        "hash": "dee9ecd35572eca7087a7c7d656f42b445a8ff8cb0775cd40c3dc2dee5140aa8",
+        "seed": 80,
+        "species": "plaice",
+        "strength": 1.0,
+        "tris": 518
+    }
+]
